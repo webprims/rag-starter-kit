@@ -1,0 +1,9 @@
+WebPrims is an IT training and technology platform based in Amritsar, Punjab, India.
+
+WebPrims focuses on practical, project-driven learning in Full Stack Development, Python, Artificial Intelligence, IoT, Data Analytics and Digital Marketing.
+
+The AI learning track includes local language models, open-weight AI, Retrieval-Augmented Generation, vector databases, AI-assisted coding workflows and self-hosted AI infrastructure.
+
+Students are encouraged to learn by building real projects, debugging code, understanding system design and working with modern development tools.
+
+Website: https://www.webprims.com/
